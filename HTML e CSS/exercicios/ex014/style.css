@@ -1,0 +1,15 @@
+@charset
+body {
+    background-color :blueviolet;
+    color: chocolate;
+    font-size: 12pt;
+    font-family: Arial;
+}
+h1 {
+    color:brown
+}
+p {
+    color: brown;
+    text-decoration: none;
+    background-color: cadetblue;
+}
